@@ -1,10 +1,12 @@
 
 /**
- *Lab2PC3 display information on seperate lines
- *the program will be displaying information on 3 seperate lines using a single Println
+ * Lab2PC3 display information personal informaion on seperate lines.
+ * the program will be displaying information on 3 seperate lines using a single Println
+ * the method demonstrates basic string output.
+ * 
  * @author Jasmin Leonrodriguez, jleonrodriquez@student.sdccd.edu
- * @version v1.1
- * @since 2/15/2025
+ * @version v1.2
+ * @since 3/22/2025
  */
 public class Lab2PC3
 {
